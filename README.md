@@ -1,4 +1,4 @@
-### Pavilion-FE
+### Pavilion-FitFocus-FE
 
 Pavilion FitFocus is a comprehensive fitness management platform designed to streamline class bookings, trainer applications, and community engagement. The platform offers a robust set of features tailored for users, trainers, and administrators, enhancing the fitness experience for all stakeholders.
 
